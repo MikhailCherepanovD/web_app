@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:roles  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.60572916666667,
+  "lineSizeMultiplier": 4.51510416666667,
+  "collapse-forces": false,
+  "centerStrength": 0.0833333333333333,
+  "repelStrength": 9.16666666666667,
+  "linkStrength": 0.375,
+  "linkDistance": 165,
+  "scale": 0.11660891579457326,
+  "close": true
+}

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "c4b8802655d2378e",
+    "type": "split",
+    "children": [
+      {
+        "id": "885a76c21f40a4e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b07abed7cee4fe13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.4. Подать блюдо.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4. Подать блюдо"
+            }
+          },
+          {
+            "id": "b47055fe015fb18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "roles/Клиент.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Клиент"
+            }
+          },
+          {
+            "id": "727d8c31dfc67061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2. Принять заказ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2. Принять заказ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b29dcdf6d273b0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "59e89fdb7c9fdf6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b84e1957e4feec5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3564d1c2b347b67f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b2b7c4700be550b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "99bd656577779f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3d0f98a3c19c49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eaf4e3f62ff962b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.3. Приготовить заказ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.3. Приготовить заказ"
+            }
+          },
+          {
+            "id": "085d47fc2eb15088",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.3. Приготовить заказ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.3. Приготовить заказ"
+            }
+          },
+          {
+            "id": "7a46b9388b083f1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "842f2c4f93e0d049",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.3. Приготовить заказ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.3. Приготовить заказ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b07abed7cee4fe13",
+  "lastOpenFiles": [
+    "1.3. Приготовить заказ.md",
+    "1.4. Подать блюдо.md",
+    "1.2. Принять заказ.md",
+    "1.1. Разместить клиента.md",
+    "1. Оказать услугу клиенту.md",
+    "1.5. Оплатить заказ.md",
+    "1.3.1. Передать заказ на кухню.md",
+    "1.6. Убрать стол.md",
+    "roles/Официант.md",
+    "(1.9.) Пожар.md",
+    "(1.8.) Нарушение общественного порядка.md",
+    "(1.7.) Проконсультировать о меню.md",
+    "1.5.1. Выставить счет.md",
+    "1.4.1. Доставить блюда.md",
+    "(1.2.5.) Изменить заказ по запросу клиента.md",
+    "roles/Клиент.md",
+    "(1.2.7.) Уведомить об отсутствии выбранного блюда.md",
+    "1.1.5. Прийти в заведение.md",
+    "1.3.4. Готовить блюда.md",
+    "roles/Заготовщик.md",
+    "roles/Главный повар.md",
+    "Untitled.canvas",
+    "roles/Управляющий.md",
+    "roles/Повар.md",
+    "roles/Лид.md",
+    "roles/Хостес.md",
+    "roles/Уборщик.md",
+    "roles"
+  ]
+}
